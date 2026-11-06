@@ -53,9 +53,9 @@ I am a technology‑driven founder and IT student at Arcada University of Applie
 ![EA](https://img.shields.io/badge/ea-323330.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-4D4D4D.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Adriann220377&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Adriann220377&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adriann220377&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Adriann220377&theme=dark&hide_border=false&include_all_commits=true&bg_color=323330&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=666666)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adriann220377&theme=dark&hide_border=false&background=4D4D4D&border=666666&stroke=999999&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=DDDDDD)<br/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Adriann220377&theme=dark&hide_border=false&layout=compact&bg_color=323330&title_color=FFFFFF&text_color=FFFFFF&border_color=666666)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adriann220377&theme=radical&no-frame=false&no-bg=true&margin-w=4)
